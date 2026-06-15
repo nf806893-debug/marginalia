@@ -1,7 +1,5 @@
 # ATMOSPHERE · weather with character
 
-![Weather App Preview](https://via.placeholder.com/800x400?text=Atmosphere+Weather+App)
-
 > A distinctive weather application that treats meteorological data as poetry. No API keys required.
 
 ## ✨ Features
