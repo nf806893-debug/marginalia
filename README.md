@@ -44,8 +44,6 @@ This app uses [Open-Meteo](https://open-meteo.com/), a free weather API that req
 - WMO weather codes
 - Geocoding (city search)
 
-Rate limits are generous for personal use.
-
 ---
 
 ## 🎮 Usage
@@ -67,37 +65,28 @@ Click the ⚙️ settings button to access:
 - Visual themes
 - Layout density
 
-### Info
-Click ℹ️ to view app credits and information
-
 ---
 
 ## 🧠 Design Decisions
 
 ### Why no framework?
-Vanilla JavaScript ensures minimal overhead, faster load times, and maximum compatibility. The app is intentionally lightweight.
+Vanilla JavaScript ensures minimal overhead, faster load times, and maximum compatibility.
 
 ### Why Open-Meteo?
-No API key requirement means zero friction for users. The API is reliable, well-documented, and respects privacy.
+No API key requirement means zero friction for users — just open and use.
 
 ### The "marginalia" concept
-Weather tracking is personal — you collect places that matter to you. The sidebar is called "marginalia" because saved cities are like annotations in a book: unique, intimate, and meaningful.
+Weather tracking is personal. The sidebar is called "marginalia" because saved cities are like handwritten annotations in the margins of a book: unique, intimate, and meaningful.
 
-### Typography choices
-- **Literata**: A serif with personality — used for city names and headers to evoke editorial warmth
-- **Inter**: Clean, readable sans-serif — perfect for data display and UI elements
+### Typography
+- **Literata**: Serif with personality — evokes editorial warmth
+- **Inter**: Clean, readable sans-serif — perfect for data display
 
 ---
 
 ## 🌐 Browser Support
 
-Should work on all modern browsers.
-
----
-
-## 🐛 Known Issues
-
-None currently. If you find a bug, please [open an issue](https://github.com/yourusername/atmosphere-weather/issues)!
+Works on all modern browsers (Chrome, Firefox, Safari, Edge).
 
 ---
 
@@ -107,18 +96,6 @@ None currently. If you find a bug, please [open an issue](https://github.com/you
 - [ ] Week-ahead prediction
 - [ ] Animated weather backgrounds
 - [ ] Export/import city lists
-- [ ] Weather alerts for severe conditions
-
----
-
-## 🤝 Contributing
-
-Contributions are welcome! Please:
-
-1. Fork the repository
-2. Create a feature branch
-3. Commit your changes
-4. Open a pull request
 
 ---
 
@@ -130,8 +107,7 @@ MIT License — free for personal and commercial use.
 
 ## 👤 Credits
 
-Created by **DeepSeek** — an AI assistant passionate about distinctive, human-centered design.
-
+Created by **DeepSeek**
 Inspired by the idea that weather data shouldn't feel like a spreadsheet — it should feel like the sky.
 
 > *"The air waits for a reading"* — marginalia
