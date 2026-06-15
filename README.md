@@ -1,4 +1,4 @@
-# ATMOSPHERE · weather with character
+# marginalia · weather with character
 
 > A distinctive weather application that treats meteorological data as poetry. No API keys required.
 
